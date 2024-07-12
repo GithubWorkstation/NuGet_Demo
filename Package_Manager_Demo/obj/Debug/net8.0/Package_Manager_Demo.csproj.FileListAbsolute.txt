@@ -1,0 +1,17 @@
+C:\Users\labuser\Desktop\NuGet_Demo\Package_Manager_Demo\bin\Debug\net8.0\Package_Manager_Demo.exe
+C:\Users\labuser\Desktop\NuGet_Demo\Package_Manager_Demo\bin\Debug\net8.0\Package_Manager_Demo.deps.json
+C:\Users\labuser\Desktop\NuGet_Demo\Package_Manager_Demo\bin\Debug\net8.0\Package_Manager_Demo.runtimeconfig.json
+C:\Users\labuser\Desktop\NuGet_Demo\Package_Manager_Demo\bin\Debug\net8.0\Package_Manager_Demo.dll
+C:\Users\labuser\Desktop\NuGet_Demo\Package_Manager_Demo\bin\Debug\net8.0\Package_Manager_Demo.pdb
+C:\Users\labuser\Desktop\NuGet_Demo\Package_Manager_Demo\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\labuser\Desktop\NuGet_Demo\Package_Manager_Demo\obj\Debug\net8.0\Package_Manager_Demo.csproj.AssemblyReference.cache
+C:\Users\labuser\Desktop\NuGet_Demo\Package_Manager_Demo\obj\Debug\net8.0\Package_Manager_Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labuser\Desktop\NuGet_Demo\Package_Manager_Demo\obj\Debug\net8.0\Package_Manager_Demo.AssemblyInfoInputs.cache
+C:\Users\labuser\Desktop\NuGet_Demo\Package_Manager_Demo\obj\Debug\net8.0\Package_Manager_Demo.AssemblyInfo.cs
+C:\Users\labuser\Desktop\NuGet_Demo\Package_Manager_Demo\obj\Debug\net8.0\Package_Manager_Demo.csproj.CoreCompileInputs.cache
+C:\Users\labuser\Desktop\NuGet_Demo\Package_Manager_Demo\obj\Debug\net8.0\Package_.C12371A6.Up2Date
+C:\Users\labuser\Desktop\NuGet_Demo\Package_Manager_Demo\obj\Debug\net8.0\Package_Manager_Demo.dll
+C:\Users\labuser\Desktop\NuGet_Demo\Package_Manager_Demo\obj\Debug\net8.0\refint\Package_Manager_Demo.dll
+C:\Users\labuser\Desktop\NuGet_Demo\Package_Manager_Demo\obj\Debug\net8.0\Package_Manager_Demo.pdb
+C:\Users\labuser\Desktop\NuGet_Demo\Package_Manager_Demo\obj\Debug\net8.0\Package_Manager_Demo.genruntimeconfig.cache
+C:\Users\labuser\Desktop\NuGet_Demo\Package_Manager_Demo\obj\Debug\net8.0\ref\Package_Manager_Demo.dll

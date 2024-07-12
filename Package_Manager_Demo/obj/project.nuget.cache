@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aRQuxPuPH1zVpg8EIcUkf4d44o0wyWjwa7ztoS8hWgqFZAa3p1MZ6aRsbEzmY/MRi5QCrFCD/6bZAqY14EPQGA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\labuser\\Desktop\\NuGet_Demo\\Package_Manager_Demo\\Package_Manager_Demo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\labuser\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
